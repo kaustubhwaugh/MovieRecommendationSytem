@@ -13,7 +13,7 @@ The system calculates similarity using **Cosine Similarity** and ranks movies ba
 
 ## Technologies
 
-- Python 3.x
+- Python
 - Pandas
 - NumPy
 - Jupyter Notebook 
